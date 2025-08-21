@@ -1,0 +1,22 @@
+
+["HUD Settings"]
+	#HUD background alpha (0.0 ~ 1.0)
+	#Range: 0.0 ~ 1.0
+	bgAlpha = 0.5
+	#Show player coordinates
+	showCoords = true
+	#Show in-game day
+	showDay = true
+	#Show current biome
+	showBiome = true
+	#Show world playtime
+	showWorldPlay = true
+	#HUD scale (0.0 ~ 1.0)
+	#Range: 0.0 ~ 1.0
+	hudScale = 1.0
+	#Coordinate decimal places (0..3)
+	#Range: 0 ~ 3
+	coordDecimals = 0
+	#HUD line order (allowed: coords, biome, day, worldplay)
+	hudOrder = ["coords", "worldplay", "biome", "day"]
+

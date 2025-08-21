@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Forge 47.x for MC 1.20.1
+license="MIT"
+
+[[mods]]
+modId="infooverlay"
+version="0.1"
+displayName="Info Overlay"
+logoFile="logo.png"
+credits="Made with Forge(1.20.1)"
+authors="Haryu5412"
+description='''
+Just simple game Info HUD overlay mod!
+Shows coordinates, time, biome and more on screen with configurable options.
+and this is BETA VERSION!! It can cause many bugs!!
+'''
+
+# Dependencies
+[[dependencies.infooverlay]]
+modId="forge"
+mandatory=true
+versionRange="[47,)" # matches loaderVersion
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.infooverlay]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="CLIENT"

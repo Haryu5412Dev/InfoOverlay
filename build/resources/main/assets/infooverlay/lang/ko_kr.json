@@ -1,0 +1,25 @@
+{
+  "infooverlay.config.title": "HUD 설정",
+  "infooverlay.config.coords": "좌표 표시",
+  "infooverlay.config.day": "일차 표시",
+  "infooverlay.config.biome": "바이옴 표시",
+  "infooverlay.config.worldplay": "월드 플레이 시간 표시",
+  "infooverlay.config.scale": "HUD 크기: %s",
+  "infooverlay.config.bg_alpha": "HUD 배경 투명도: ",
+  "infooverlay.config.coord_decimals": "좌표 소수점: ",
+  "infooverlay.config.on": "켜짐",
+  "infooverlay.config.off": "꺼짐",
+  "infooverlay.config.order_hint": "드래그하여 순서를 변경하세요",
+  "infooverlay.config.tab.display": "표시",
+  "infooverlay.config.tab.order": "순서",
+
+  "infooverlay.coords_line": "X: %s, Y: %s, Z: %s",
+  "infooverlay.biome_line": "바이옴: %s",
+  "infooverlay.day_line": "일차: %s",
+  "infooverlay.worldplay_line": "월드 플레이 시간: %s",
+
+  "infooverlay.item.coords": "좌표",
+  "infooverlay.item.biome": "바이옴",
+  "infooverlay.item.day": "일차",
+  "infooverlay.item.worldplay": "플레이 시간"
+}

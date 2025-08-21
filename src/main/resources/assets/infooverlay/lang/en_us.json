@@ -1,0 +1,25 @@
+{
+  "infooverlay.config.title": "HUD Settings",
+  "infooverlay.config.coords": "Show Coordinates",
+  "infooverlay.config.day": "Show Day",
+  "infooverlay.config.biome": "Show Biome",
+  "infooverlay.config.worldplay": "Show World Playtime",
+  "infooverlay.config.scale": "HUD Scale: %s",
+  "infooverlay.config.bg_alpha": "HUD Background Alpha: ",
+  "infooverlay.config.coord_decimals": "Coord decimals: ",
+  "infooverlay.config.on": "On",
+  "infooverlay.config.off": "Off",
+  "infooverlay.config.order_hint": "Drag items to reorder",
+  "infooverlay.config.tab.display": "Display",
+  "infooverlay.config.tab.order": "Order",
+
+  "infooverlay.coords_line": "X: %s, Y: %s, Z: %s",
+  "infooverlay.biome_line": "Biome: %s",
+  "infooverlay.day_line": "Day: %s",
+  "infooverlay.worldplay_line": "World Playtime: %s",
+
+  "infooverlay.item.coords": "Coordinates",
+  "infooverlay.item.biome": "Biome",
+  "infooverlay.item.day": "Day",
+  "infooverlay.item.worldplay": "Playtime"
+}
