@@ -21,5 +21,11 @@
   "infooverlay.item.coords": "좌표",
   "infooverlay.item.biome": "바이옴",
   "infooverlay.item.day": "일차",
-  "infooverlay.item.worldplay": "플레이 시간"
+  "infooverlay.item.worldplay": "플레이 시간",
+
+  "infooverlay.key.category": "Info Overlay",
+  "infooverlay.key.toggle_hud": "HUD 토글",
+
+  "infooverlay.hud.on": "HUD: 켜짐",
+  "infooverlay.hud.off": "HUD: 꺼짐"
 }

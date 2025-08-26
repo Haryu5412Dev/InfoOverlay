@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:false
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -32,11 +32,11 @@ damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
 renderDistance:12
-simulationDistance:12
+simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
-maxFps:200
+maxFps:170
 graphicsMode:0
 ao:false
 prioritizeChunkUpdates:0

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfoOverlay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InfoOverlay.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfoOverlay.test.iml" filepath="$PROJECT_DIR$/.idea/modules/InfoOverlay.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.InfoOverlay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.InfoOverlay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.InfoOverlay.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.InfoOverlay.test.iml" />
     </modules>
   </component>
 </project>

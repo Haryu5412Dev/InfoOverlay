@@ -15,10 +15,14 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import com.example.infooverlay.client.ClientKeyBindings;
+
 public class HudOverlay implements IGuiOverlay {
 
     @Override
     public void render(ForgeGui gui, GuiGraphics g, float partialTick, int screenWidth, int screenHeight) {
+        if (!ClientKeyBindings.hudVisible) return;
+
         Minecraft mc = Minecraft.getInstance();
         if (mc.player == null || mc.level == null) return;
         if (mc.options.renderDebug) return; // F3 켜지면 숨김

@@ -21,5 +21,11 @@
   "infooverlay.item.coords": "Coordinates",
   "infooverlay.item.biome": "Biome",
   "infooverlay.item.day": "Day",
-  "infooverlay.item.worldplay": "Playtime"
+  "infooverlay.item.worldplay": "Playtime",
+
+  "infooverlay.key.category": "Info Overlay",
+  "infooverlay.key.toggle_hud": "Toggle HUD",
+
+  "infooverlay.hud.on": "HUD: On",
+  "infooverlay.hud.off": "HUD: Off"
 }
